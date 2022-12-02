@@ -1,8 +1,7 @@
 ---
 layout: pub
 urltitle: "Akshara Rai"
-title: "Akshara Rai's webpage"
-categories: 
+Description: "Akshara Rai's website"
 permalink: /
 ---
 
@@ -21,4 +20,5 @@ To get in touch with me, feel free to drop me an email at
 Or check out my publications at my [Google Scholar][Google Scholar] account. I usually shy away from social media, so don't have a Twitter account. But you can watch this [Humans of AI][HAI] episode to learn more about me.
 
 [Meta AI]: https://ai.facebook.com/
-[email]: akshararai@meta.com
+[Google Scholar]: https://scholar.google.com/citations?user=H8FJlJoAAAAJ&hl=en
+[HAI]: https://youtu.be/JW4pcRX6biY
