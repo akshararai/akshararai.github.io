@@ -1,6 +1,8 @@
 ---
 layout: pub
-urltitle: "Akshara Rai"  
+urltitle: "Akshara Rai"
+title: "Akshara Rai's webpage"
+categories: 
 permalink: /
 ---
 
@@ -12,8 +14,8 @@ I am research scientist at [Meta AI][Meta AI] in Menlo Park, working on robot le
 
 To get in touch with me, feel free to drop me an email at 			
 <script language="JavaScript">
-    var user = "williamcampbellmartin";
-    var host = "gmail.com";
+    var user = "akshararai";
+    var host = "meta.com";
     document.write(user + "@" + host);
 </script>. 
 Or check out my publications at my [Google Scholar][Google Scholar] account. I usually shy away from social media, so don't have a Twitter account. But you can watch this [Humans of AI][HAI] episode to learn more about me.
